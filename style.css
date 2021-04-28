@@ -124,3 +124,7 @@ input, select {
   color: red;
   padding-top: 50;
 }
+
+.bakgrund {
+    background-repeat: repeat-x;
+}
